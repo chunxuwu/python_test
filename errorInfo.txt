@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:/Users/NEVERGUVEIP/Documents/GitHub/python_test/10_2(取得反向跟踪的字符串).py", line 22, in <module>
+    spam()
+  File "C:/Users/NEVERGUVEIP/Documents/GitHub/python_test/10_2(取得反向跟踪的字符串).py", line 16, in spam
+    bacon()
+  File "C:/Users/NEVERGUVEIP/Documents/GitHub/python_test/10_2(取得反向跟踪的字符串).py", line 18, in bacon
+    raise Exception('this is the error message.')
+Exception: this is the error message.
